@@ -1,0 +1,202 @@
+{
+    "questions": [
+      {
+        "question": "What is the name of the galaxy of which our sun is a member?",
+        "type": "radio",
+        "correct": 2,
+        "answers": [
+          "Sunflower Galaxy",
+          "Cigar Galaxy",
+          "Milky Way Galaxy",
+          "Comet Galaxy"
+        ]
+      },
+      {
+        "question": "What is special about a chameleon?",
+        "type": "radio",
+        "correct": 0,
+        "answers": [
+          "It changes color",
+          "It can live without food",
+          "It has no eyes",
+          "It can live without food and has no eyes",
+          "It can breath underwater and fly"
+        ]
+      },
+      {
+        "question": "Michael Jordan's nicknames?",
+        "caption": "Mark all that apply",
+        "type": "checkbox",
+        "correct": [0,2,3],
+        "answers": [
+          "Air Jordan",
+          "Black Dog",
+          "Black Cat",
+          "His airness"
+        ]
+      },
+      {
+        "question": "What does the 'e' of e-mail stand for?",
+        "caption": "The answer should be written in lowercase",
+        "type": "input",
+        "correct": "electronic"
+      },
+      {
+        "question": "What animal is called 'the ship of the desert'?",
+        "type": "radio",
+        "correct": 2,
+        "answers": [
+          "Snake",
+          "Coyote",
+          "Camel",
+          "Turtle",
+          "Fox"
+        ]
+      },
+      {
+        "question": "What dogs are white with black spots all over them?",
+        "type": "radio",
+        "correct": 1,
+        "answers": [
+          "Huskies",
+          "Dalmatians",
+          "Sheep dog",
+          "Alsations"
+        ]
+      },
+      {
+        "question": "What does WWW stand for?",
+        "type": "radio",
+        "correct": 2,
+        "answers": [
+          "Widened Web World",
+          "Wireless Wide Web",
+          "World Wide Web",
+          "Window Web World"
+        ]
+      },
+      {
+        "question": "The name of which shampoo brand is made up of two different parts of the body?",
+        "type": "radio",
+        "correct": 1,
+        "answers": [
+          "Herbal Essence",
+          "Head & Shoulders",
+          "Schauma",
+          "Pantene"
+        ]
+      },
+      {
+        "question": "What does the 'Big Bang Theory' deal with?",
+        "type": "radio",
+        "correct": 3,
+        "answers": [
+          "Medicine",
+          "Human Body",
+          "Music",
+          "Universe"
+        ]
+      },
+      {
+        "question": "What word completes the following idiom. 'Easier Said Than...'?",
+        "caption": "The answer should be written in lowercase",
+        "type": "input",
+        "correct": "done"
+      },
+      {
+        "question": "What does the acronym NASA stand for?",
+        "caption": "Mark all that apply",
+        "type": "radio",
+        "correct": 2,
+        "answers": [
+          "National Army and Soldiers Administration",
+          "National Art and Sculpture Administration",
+          "National Aeronautics and Space Administration",
+          "National Airforce and Special Administration"
+        ]
+      },
+      {
+        "question": "Complete the commonly used idiom. 'Better late than ...'",
+        "caption": "The answer should be written in lowercase",
+        "type": "input",
+        "correct": "never"
+      },
+      {
+        "question": "What do you want if you send an S.O.S. signal?",
+        "type": "radio",
+        "correct": 1,
+        "answers": [
+          "Back-up",
+          "Help",
+          "Digital Television"
+        ]
+      },
+      {
+        "question": "What does CD stand for?",
+        "type": "radio",
+        "correct": 2,
+        "answers": [
+          "Capacity Disk",
+          "Copyable Disk",
+          "Compact Disc",
+          "Circular Disk"
+        ]
+      },
+      {
+        "question": "Joseph Barbera and William Hannah created which cat and mouse duo?",
+        "type": "radio",
+        "correct": 3,
+        "answers": [
+          "Mickey and Minnie",
+          "James and Jerry",
+          "Tom and Mickey",
+          "Tom and Jerry"
+        ]
+      },
+      {
+        "question": "Which is the shortest month of the year?",
+        "type": "radio",
+        "correct": 3,
+        "answers": [
+          "September",
+          "May",
+          "April",
+          "February"
+        ]
+      },
+      {
+        "question": "On which continent would you find the fewest people?",
+        "type": "radio",
+        "correct": 0,
+        "answers": [
+          "Antarctica",
+          "South America",
+          "Africa",
+          "Europe"
+        ]
+      },
+      {
+        "question": "Which Italian great mind, who made improvements to the telescope, is known as the 'father of modern science'?",
+        "type": "radio",
+        "correct": 1,
+        "answers": [
+          "Venturi",
+          "Galileo",
+          "Rubia",
+          "Galvani",
+          "Leonardo da Vinci"
+        ]
+      },
+      {
+        "question": "What is the chemical symbol for 'Germanium'?",
+        "type": "radio",
+        "correct": 3,
+        "answers": [
+          "Be",
+          "Ae",
+          "Ce",
+          "Ge"
+        ]
+      }
+    ]
+  }
